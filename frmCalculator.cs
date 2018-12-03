@@ -1,4 +1,13 @@
-﻿using System;
+﻿/*
+    @author: Samuel Teague
+    @date: 03 Dec 2018 (most recent)
+    @file: frmCalculator.cs
+    @description:
+        This holds all event handlers for the GUI app.
+*/
+
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -23,7 +32,7 @@ namespace CalculatorProgram
         }
 
 
-        //helper methods
+        //helper method
         private void NumBtnPushed(int n)
         {
             int temp = 0;

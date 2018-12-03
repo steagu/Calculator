@@ -1,4 +1,14 @@
-﻿using System;
+﻿/*
+    @author: Samuel Teague
+    @date: 03 Dec 2018 (most recent)
+    @file: CalculatorInt.cs
+    @description:
+        This file defines a class called CalculatorInt. This class takes an input equation as a string (infix), 
+        then converts it into a list of strings separated at the operators/operands, the converts to postfix, then
+        computes the result. This allows it to accept complex inputs.
+*/
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

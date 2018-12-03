@@ -1,7 +1,11 @@
-#.NET Calculator
+# .NET GUI Calculator
 
-Here I used .NET to implement a GUI Calculator for Windows. This calculator is very basic, and I would never actually use
-	it to be honest. I made it more than anything as an exersize to practice using .NET. Obviously, it is redundant to
-	build, since Windows already comes with a much better GUI Calculator. Feel free to look around at it. 
+Using C# and .NET, this project creates a simple GUI calculator. 
 
-I used Microsoft Visual Studios to complete this project. 
+I doubt anyone will really find a use for this code, including myself, because far superior solutions for 
+	calculators exist for free preinstalled on most computers. This project was mainly an exercise for practice.
+
+
+Disclaimer:
+This project was inspired by and is very similar to a class assignment. Permission is granted for this code to be used for all
+	purposes EXCEPT cheating on a school assignment. DO NOT use this project to cheat. 
